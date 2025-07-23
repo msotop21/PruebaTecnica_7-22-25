@@ -42,11 +42,3 @@ Este proyecto es una aplicación Full Stack para la gestión de clientes y sus d
 - Git
 
 ---
-
-## 🚀 Instrucciones de Ejecución
-
-### 1. Clonar el repositorio
-
-```bash
-git clone https://github.com/tuusuario/tu-repo.git
-cd tu-repo
