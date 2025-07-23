@@ -40,5 +40,3 @@ Este proyecto es una aplicación Full Stack para la gestión de clientes y sus d
 - MySQL Server
 - Maven
 - Git
-
----
